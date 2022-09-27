@@ -1,0 +1,32 @@
+# This is a basic workflow to help you get started with Actions
+
+name: CI
+
+# Controls when the workflow will run
+on:
+  schedule:
+    # Run this once per day, towards the end of the day for keeping the most
+    # recent data point most meaningful (hours are interpreted in UTC).
+    - cron: "0 23 * * *"
+  workflow_dispatch: # Allow for running this manually.
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "build"
+  j1:
+    # The type of runner that the job will run on
+    name: test
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: jgehrcke/github-repo-stats@RELEASE
+
+      
+      - name: run-ghrs
+        uses: jgehrcke/github-repo-stats@RELEASE
+        with: 
+          repository: BMHLab/DiCER
+          ghtoken: ${{ secrets.ghrs_github_api_token }}
+
