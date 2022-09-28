@@ -16,5 +16,5 @@ jobs:
         # Use latest release.
         uses: jgehrcke/github-repo-stats@RELEASE
         with:
-          repository: chaosuo/hctsa
+          repository: BMHLab/DiCER
           ghtoken: ${{ secrets.ghrs_github_api_token }}
