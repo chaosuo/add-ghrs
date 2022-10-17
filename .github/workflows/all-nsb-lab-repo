@@ -1,0 +1,37 @@
+name: github-repo-stats
+
+on:
+  schedule:
+    # Run this once per day, towards the end of the day for keeping the most
+    # recent data point most meaningful (hours are interpreted in UTC).
+    - cron: "0 23 * * *"
+  workflow_dispatch: # Allow for running this manually.
+
+jobs:
+  j1:
+    name: all-nsb-lab-repo
+    runs-on: ubuntu-latest
+    #steps:
+    #  - name: run-ghrs
+    #    # Use latest release.
+    #    uses: jgehrcke/github-repo-stats@RELEASE
+    #    with:
+    #      repository: BMHLab/DiCER
+    #      ghtoken: ${{ secrets.ghrs_github_api_token }}
+          
+    strategy:
+      matrix:
+        # The repositories to generate reports for.
+        statsRepo: ['BMHLab/DiCER', 'BMHLab/MotionStructuralConnectivity']
+      # Do not cancel&fail all remaining jobs upon first job failure.
+      fail-fast: false
+      # Help avoid commit conflicts. Note(JP): this should not be
+      # necessary anymore, feedback appreciated
+      max-parallel: 1
+    steps:
+      - name: run-ghrs
+        uses: jgehrcke/github-repo-stats@RELEASE
+        with:
+          repository: ${{ matrix.statsRepo }}
+          ghtoken: ${{ secrets.ghrs_github_api_token }}
+          
