@@ -22,7 +22,8 @@ jobs:
     strategy:
       matrix:
         # The repositories to generate reports for.
-        statsRepo: ['BMHLab/DiCER', 'BMHLab/MotionStructuralConnectivity','BMHLab/AHBAprocessing','benfulcher/GCEA_FalsePositives','sidchop/brainconn','KevinAquino/modelling_comparisons','StuartJO/GenerativeNetworkModel','lindenmp/rs-fMRI']
+        statsRepo: ['BMHLab/DiCER', 'BMHLab/MotionStructuralConnectivity','BMHLab/AHBAprocessing','BMHLab/BrainEigenmodes']
+        #,'benfulcher/GCEA_FalsePositives','sidchop/brainconn','KevinAquino/modelling_comparisons','StuartJO/GenerativeNetworkModel','lindenmp/rs-fMRI']
       # Do not cancel&fail all remaining jobs upon first job failure.
       fail-fast: false
       # Help avoid commit conflicts. Note(JP): this should not be
