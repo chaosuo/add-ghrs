@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/BMHLab/DiCER,19,9
+/BMHLab/DiCER/tree/master/hcp_processing,8,2
+/BMHLab/DiCER/issues/12,4,4
+/BMHLab/DiCER/tree/master/fmriprepProcess,3,2
+/BMHLab/DiCER/tree/master/carpetReport,3,1
+/BMHLab/DiCER/blob/master/carpetReport/bazaar.py,2,1
+/BMHLab/DiCER/blob/master/hcp_processing/roi_HCP_MMP.txt,2,1
+/BMHLab/DiCER/blob/master/carpetCleaner.sh,1,1
+/BMHLab/DiCER/blob/master/carpetReport/tapestry.py,1,1
+/BMHLab/DiCER/blob/master/fmriprepProcess/preprocess_fmriprep.sh,1,1
