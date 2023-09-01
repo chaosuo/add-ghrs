@@ -1,5 +1,5 @@
 % Statistics for BMHLab/BrainEigenmodes
-% Generated for [BMHLab/BrainEigenmodes](https://github.com/BMHLab/BrainEigenmodes) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2023-08-31 23:19 UTC.
+% Generated for [BMHLab/BrainEigenmodes](https://github.com/BMHLab/BrainEigenmodes) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2023-09-01 23:19 UTC.
 
 
 ## Views
@@ -86,7 +86,7 @@ Top 15 referrers: 01: `t.co`, 02: `biorxiv.org`, 03: `github.com`, 04: `Google`,
 
 <div id="chart_paths_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 paths: 01: `BMHLab/BrainEigenmodes_legacy`, 02: `BMHLab/BrainEigenmodes`, 03: `BMHLab/BrainEigenmodes/tree/main/functions_matlab`, 04: `BMHLab/BrainEigenmodes_legacy/tree/main/functions_matlab`, 05: `BMHLab/BrainEigenmodes_legacy/tree/main/data`, 06: `BMHLab/BrainEigenmodes/tree/main/data`, 07: `BMHLab/BrainEigenmodes/blob/main/demo_eigenmode_analysis.m`, 08: `BMHLab/BrainEigenmodes_legacy/blob/main/demo_eigenmode_calculation.sh`, 09: `BMHLab/BrainEigenmodes/blob/main/surface_eigenmodes.py`, 10: `BMHLab/BrainEigenmodes_legacy/blob/main/volume_eigenmodes.py`, 11: `BMHLab/BrainEigenmodes/tree/main/data/empirical`, 12: `BMHLab/BrainEigenmodes_legacy/blob/main/functions_matlab/calc_LaplacianMatrix.m`, 13: `BMHLab/BrainEigenmodes_legacy/blob/main/functions_matlab/calc_eigendecomposition.m`, 14: `BMHLab/BrainEigenmodes_legacy/blob/main/surface_eigenmodes.py`, 15: `BMHLab/BrainEigenmodes_legacy/tree/main/data/figures_Nature`
+Top 15 paths: 01: `BMHLab/BrainEigenmodes_legacy`, 02: `BMHLab/BrainEigenmodes`, 03: `BMHLab/BrainEigenmodes/tree/main/functions_matlab`, 04: `BMHLab/BrainEigenmodes_legacy/tree/main/functions_matlab`, 05: `BMHLab/BrainEigenmodes_legacy/tree/main/data`, 06: `BMHLab/BrainEigenmodes/tree/main/data`, 07: `BMHLab/BrainEigenmodes/blob/main/demo_eigenmode_analysis.m`, 08: `BMHLab/BrainEigenmodes_legacy/blob/main/demo_eigenmode_calculation.sh`, 09: `BMHLab/BrainEigenmodes/blob/main/surface_eigenmodes.py`, 10: `BMHLab/BrainEigenmodes_legacy/blob/main/functions_matlab/calc_LaplacianMatrix.m`, 11: `BMHLab/BrainEigenmodes/tree/main/data/empirical`, 12: `BMHLab/BrainEigenmodes_legacy/blob/main/volume_eigenmodes.py`, 13: `BMHLab/BrainEigenmodes_legacy/blob/main/functions_matlab/calc_eigendecomposition.m`, 14: `BMHLab/BrainEigenmodes_legacy/blob/main/surface_eigenmodes.py`, 15: `BMHLab/BrainEigenmodes/tree/main/data/template_surfaces_volumes`
 
 
 <script type="text/javascript">
