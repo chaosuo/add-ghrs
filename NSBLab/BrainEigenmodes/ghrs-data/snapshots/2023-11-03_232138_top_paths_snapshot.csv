@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/NSBLab/BrainEigenmodes,78,42
+/NSBLab/BrainEigenmodes/tree/main/data,47,7
+/NSBLab/BrainEigenmodes/tree/main/functions_matlab,32,7
+/NSBLab/BrainEigenmodes/blob/main/demo_eigenmode_analysis.m,20,7
+/NSBLab/BrainEigenmodes/blob/main/surface_eigenmodes.py,19,6
+/NSBLab/BrainEigenmodes/tree/main/data/parcellations,14,1
+/NSBLab/BrainEigenmodes/blob/main/data/parcellations/Q1-Q6_RelatedParcellation210.L.CorticalAreas_dil_Colors.32k_fs_LR.label.gii,13,1
+/NSBLab/BrainEigenmodes/tree/main,12,6
+/NSBLab/BrainEigenmodes/blob/main/functions_matlab/calc_LaplacianMatrix.m,12,4
+/NSBLab/BrainEigenmodes/tree/main/data/examples,12,3
