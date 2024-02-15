@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/NSBLab/BrainEigenmodes,25,15
+/NSBLab/BrainEigenmodes/tree/main/data,20,3
+/NSBLab/BrainEigenmodes/tree/main/data/parcellations,20,1
+/NSBLab/BrainEigenmodes/tree/main/functions_matlab,11,4
+/NSBLab/BrainEigenmodes/tree/main,10,4
+/NSBLab/BrainEigenmodes/blob/main/generate_paper_figures_main_Nature.m,10,1
+/NSBLab/BrainEigenmodes/blob/main/surface_eigenmodes.py,9,3
+/NSBLab/BrainEigenmodes/blob/main/data/parcellations/fsLR_32k_Glasser360-lh.txt,8,1
+/NSBLab/BrainEigenmodes/blob/main/functions_matlab/calc_surface_connectivity.m,7,2
+/NSBLab/BrainEigenmodes/blob/main/demo_eigenmode_analysis.m,6,3
