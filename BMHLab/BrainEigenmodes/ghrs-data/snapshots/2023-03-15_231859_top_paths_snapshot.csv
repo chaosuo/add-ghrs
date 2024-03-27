@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/BMHLab/BrainEigenmodes,51,23
+/BMHLab/BrainEigenmodes/tree/main/data,16,6
+/BMHLab/BrainEigenmodes/tree/main/functions_matlab,8,6
+/BMHLab/BrainEigenmodes/tree/main/functions_matlab/cifti-matlab-master,7,1
+/BMHLab/BrainEigenmodes/tree/main/data/empirical,5,3
+/BMHLab/BrainEigenmodes/blob/main/demo_eigenmode_analysis.m,4,4
+/BMHLab/BrainEigenmodes/blob/main/generate_paper_figures.m,3,2
+/BMHLab/BrainEigenmodes/blob/main/demo_eigenmode_calculation.sh,3,1
+/BMHLab/BrainEigenmodes/graphs/traffic,3,1
+/BMHLab/BrainEigenmodes/pulse,3,1

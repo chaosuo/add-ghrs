@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/BMHLab/DiCER,16,5
+/BMHLab/DiCER/blob/master/DiCER_lightweight.sh,16,3
+/BMHLab/DiCER/blob/master/carpetCleaning/clusterCorrect.py,7,1
+/BMHLab/DiCER/tree/master/fmriprepProcess,7,1
+/BMHLab/DiCER/blob/master/fmriprepProcess/RegressNoiseSignal.m,6,2
+/BMHLab/DiCER/blob/master/README.md,3,1
+/BMHLab/DiCER/tree/master/carpetReport,3,1
+/BMHLab/DiCER/blob/49e175e331bb07a7be947478215b68c9126df2f0/hcp_processing/calculateParcelTimeSeriesHCP.sh,2,1
+/BMHLab/DiCER/blob/master/carpetCleaning/vacuum_dbscan.py,2,1
+/BMHLab/DiCER/blob/master/carpetReport/carpetPlot.py,2,1

@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/BMHLab/DiCER,10,8
+/BMHLab/DiCER/tree/master/fmriprepProcess,4,2
+/BMHLab/DiCER/tree/master/hcp_processing,3,2
+/BMHLab/DiCER/tree/master/utils,3,2
+/BMHLab/DiCER/issues/12,2,2
+/BMHLab/DiCER/blob/master/DiCER_lightweight.sh,2,1
+/BMHLab/DiCER/blob/master/fmriprepProcess/prepare_dbscan_from_fmriprep.sh,2,1
+/BMHLab/DiCER/blob/master/fmriprepProcess/preprocess_fmriprep.sh,2,1
+/BMHLab/DiCER/blob/master/hcp_processing/concatenate_hcp.sh,2,1
+/BMHLab/DiCER/blob/master/hcp_processing/run_dicer_one_session.sh,2,1

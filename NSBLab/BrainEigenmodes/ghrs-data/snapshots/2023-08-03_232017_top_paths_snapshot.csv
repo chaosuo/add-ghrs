@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/NSBLab/BrainEigenmodes,134,77
+/NSBLab/BrainEigenmodes/tree/main/data,87,16
+/NSBLab/BrainEigenmodes/tree/main/functions_matlab,77,13
+/NSBLab/BrainEigenmodes/blob/main/surface_eigenmodes.py,61,19
+/NSBLab/BrainEigenmodes/blob/main/demo_eigenmode_calculation.sh,53,9
+/NSBLab/BrainEigenmodes/tree/main,41,18
+/NSBLab/BrainEigenmodes/blob/main/demo_eigenmode_analysis.m,26,6
+/NSBLab/BrainEigenmodes/blob/main/demo_connectome_eigenmode_calculation.m,24,6
+/NSBLab/BrainEigenmodes/tree/main/data/template_eigenmodes,22,7
+/NSBLab/BrainEigenmodes/tree/main/data/template_surfaces_volumes,22,4
