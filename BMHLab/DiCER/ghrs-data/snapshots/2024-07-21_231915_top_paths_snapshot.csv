@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/NSBLab/DiCER/blob/master/carpetCleaner.sh,11,2
+/NSBLab/DiCER/blob/master/carpetCleaner_batch.sh,6,1
+/NSBLab/DiCER/blob/master/README.md,5,1
+/NSBLab/DiCER,4,3
+/NSBLab/DiCER/blob/master/fmriprepProcess/preprocess_fmriprep.sh,4,2
+/NSBLab/DiCER/tree/master/fmriprepProcess,4,2
+/NSBLab/DiCER/blob/master/DiCER_lightweight.sh,4,1
+/NSBLab/DiCER/blob/master/hcp_processing/run_DiCER_hcp.sh,2,1
+/NSBLab/DiCER/blob/master/hcp_processing/run_dicer_one_session.sh,2,1
+/NSBLab/DiCER/blob/master/LICENSE,2,1
