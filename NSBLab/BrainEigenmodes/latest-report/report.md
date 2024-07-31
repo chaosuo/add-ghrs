@@ -1,5 +1,5 @@
 % Statistics for NSBLab/BrainEigenmodes
-% Generated for [NSBLab/BrainEigenmodes](https://github.com/NSBLab/BrainEigenmodes) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2024-07-31 23:24 UTC.
+% Generated for [NSBLab/BrainEigenmodes](https://github.com/NSBLab/BrainEigenmodes) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2024-07-31 23:44 UTC.
 
 
 ## Views
@@ -75,7 +75,7 @@ respond slowly to change (narrow peaks are smoothed out).
 
 <div id="chart_referrers_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 referrers: 01: `nature.com`, 02: `github.com`, 03: `colab.research.google.com`, 04: `Google`, 05: `osf.io`, 06: `ncbi.nlm.nih.gov`, 07: `Bing`, 08: `m.facebook.com`, 09: `biorxiv.org`, 10: `ohbm.github.io`, 11: `www-nature-com-s.libyc.nudt.edu.cn`, 12: `cn.bing.com`, 13: `www-nature-com-443.webvpn.ccmu.edu.cn`, 14: `360doc.com`, 15: `jchrispang.github.io`
+Top 15 referrers: 01: `nature.com`, 02: `github.com`, 03: `colab.research.google.com`, 04: `Google`, 05: `osf.io`, 06: `ncbi.nlm.nih.gov`, 07: `Bing`, 08: `biorxiv.org`, 09: `www-nature-com-443.webvpn.ccmu.edu.cn`, 10: `cn.bing.com`, 11: `m.facebook.com`, 12: `ohbm.github.io`, 13: `www-nature-com-s.libyc.nudt.edu.cn`, 14: `www-nature-com-443.webvpn.las.ac.cn`, 15: `overleaf.com`
 
 
 
@@ -86,7 +86,7 @@ Top 15 referrers: 01: `nature.com`, 02: `github.com`, 03: `colab.research.google
 
 <div id="chart_paths_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 paths: 01: `/`, 02: `/tree/main/data`, 03: `/tree/main/functions_matlab`, 04: `/blob/main/surface_eigenmodes.py`, 05: `/blob/main/demo_eigenmode_analysis.m`, 06: `/blob/main/demo_eigenmode_calculation.sh`, 07: `/tree/main`, 08: `/tree/main/data/empirical`, 09: `/tree/main/data/examples`, 10: `/blob/main/demo_connectome_eigenmode_calculation.m`, 11: `/blob/main/volume_eigenmodes.py`, 12: `/blob/main/demo_wave_model_simulation.m`, 13: `/tree/main/data/template_surfaces_volumes`, 14: `/blob/main/generate_paper_figures_main_Nature.m`, 15: `/tree/main/data/template_eigenmodes`
+Top 15 paths: 01: `/`, 02: `/tree/main/data`, 03: `/tree/main/functions_matlab`, 04: `/blob/main/surface_eigenmodes.py`, 05: `/blob/main/demo_eigenmode_analysis.m`, 06: `/blob/main/demo_eigenmode_calculation.sh`, 07: `/tree/main`, 08: `/tree/main/data/empirical`, 09: `/tree/main/data/examples`, 10: `/blob/main/demo_connectome_eigenmode_calculation.m`, 11: `/blob/main/volume_eigenmodes.py`, 12: `/blob/main/demo_wave_model_simulation.m`, 13: `/tree/main/data/template_surfaces_volumes`, 14: `/tree/main/data/template_eigenmodes`, 15: `/blob/main/generate_paper_figures_main_Nature.m`
 
 
 <script type="text/javascript">
