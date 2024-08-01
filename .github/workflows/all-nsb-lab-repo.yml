@@ -22,7 +22,7 @@ jobs:
     strategy:
       matrix:
         # The repositories to generate reports for.
-        statsRepo: ['BMHLab/DiCER', 'BMHLab/MotionStructuralConnectivity','BMHLab/AHBAprocessing','BMHLab/BrainEigenmodes','NSBLab/BrainEigenmodes','NSBLab/DiCER','NSBLab/DegreeVariability','NSBLab/GeneticBrainHubs','NSBLab/individualised_parc_psychosis','NSBLab/MATLAB-connectome-intro','NSBLab/MotionStructuralConnectivity','NSBLab/CElegansConnectomeGeneExpression','NSBLab/TEPs-MEPs','NSBLab/CentralityConsistency','NSBLab/parcellation_fragmenter','NSBLab/TEPs-PEPs','NSBLab/DiCER_results','NSBLab/commonsignalproject.github.io','NSBLab/unifiedmeso']
+        statsRepo: ['BMHLab/DiCER', 'BMHLab/MotionStructuralConnectivity','BMHLab/AHBAprocessing','BMHLab/BrainEigenmodes','NSBLab/BrainEigenmodes','NSBLab/DegreeVariability','NSBLab/GeneticBrainHubs','NSBLab/individualised_parc_psychosis','NSBLab/MATLAB-connectome-intro','NSBLab/MotionStructuralConnectivity','NSBLab/CElegansConnectomeGeneExpression','NSBLab/DiCER','NSBLab/TEPs-MEPs','NSBLab/CentralityConsistency','NSBLab/parcellation_fragmenter','NSBLab/TEPs-PEPs','NSBLab/DiCER_results','NSBLab/commonsignalproject.github.io','NSBLab/unifiedmeso']
         #,'benfulcher/GCEA_FalsePositives','sidchop/brainconn','KevinAquino/modelling_comparisons','StuartJO/GenerativeNetworkModel','lindenmp/rs-fMRI']
       # Do not cancel&fail all remaining jobs upon first job failure.
       fail-fast: false
