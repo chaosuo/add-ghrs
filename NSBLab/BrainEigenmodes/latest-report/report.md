@@ -1,5 +1,5 @@
 % Statistics for NSBLab/BrainEigenmodes
-% Generated for [NSBLab/BrainEigenmodes](https://github.com/NSBLab/BrainEigenmodes) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2024-08-01 02:56 UTC.
+% Generated for [NSBLab/BrainEigenmodes](https://github.com/NSBLab/BrainEigenmodes) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2024-08-01 03:06 UTC.
 
 
 ## Views
@@ -75,7 +75,7 @@ respond slowly to change (narrow peaks are smoothed out).
 
 <div id="chart_referrers_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 referrers: 01: `nature.com`, 02: `github.com`, 03: `colab.research.google.com`, 04: `Google`, 05: `osf.io`, 06: `ncbi.nlm.nih.gov`, 07: `Bing`, 08: `cn.bing.com`, 09: `www-nature-com-443.webvpn.ccmu.edu.cn`, 10: `biorxiv.org`, 11: `m.facebook.com`, 12: `ohbm.github.io`, 13: `www-nature-com-s.libyc.nudt.edu.cn`, 14: `overleaf.com`, 15: `statics.teams.cdn.office.net`
+Top 15 referrers: 01: `nature.com`, 02: `github.com`, 03: `colab.research.google.com`, 04: `Google`, 05: `osf.io`, 06: `ncbi.nlm.nih.gov`, 07: `Bing`, 08: `cn.bing.com`, 09: `www-nature-com-s.libyc.nudt.edu.cn`, 10: `ohbm.github.io`, 11: `biorxiv.org`, 12: `m.facebook.com`, 13: `www-nature-com-443.webvpn.ccmu.edu.cn`, 14: `mail.cbs.mpg.de`, 15: `onlinelibrary.wiley.com`
 
 
 
