@@ -1,5 +1,5 @@
 % Statistics for NSBLab/MATLAB-connectome-intro
-% Generated for [NSBLab/MATLAB-connectome-intro](https://github.com/NSBLab/MATLAB-connectome-intro) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2024-08-15 23:33 UTC.
+% Generated for [NSBLab/MATLAB-connectome-intro](https://github.com/NSBLab/MATLAB-connectome-intro) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2024-08-16 23:28 UTC.
 
 
 ## Views
