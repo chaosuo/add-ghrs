@@ -1,5 +1,5 @@
 % Statistics for NSBLab/MotionStructuralConnectivity
-% Generated for [NSBLab/MotionStructuralConnectivity](https://github.com/NSBLab/MotionStructuralConnectivity) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2024-09-08 23:31 UTC.
+% Generated for [NSBLab/MotionStructuralConnectivity](https://github.com/NSBLab/MotionStructuralConnectivity) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2024-09-09 23:30 UTC.
 
 
 ## Views
