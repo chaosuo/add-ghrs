@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/NSBLab/DiCER,4,3
+/NSBLab/DiCER/blob/master/fmriprepProcess/clusterReorder.py,4,1
+/NSBLab/DiCER/blob/master/fmriprepProcess/create_mask_dbscan.m,4,1
+/NSBLab/DiCER/blob/master/fmriprepProcess/__init__.py,4,1
+/NSBLab/DiCER/issues/12,2,2
+/NSBLab/DiCER/blob/master/carpetCleaner_batch.sh,2,1
+/NSBLab/DiCER/blob/master/carpetCleaner.sh,2,1
+/NSBLab/DiCER/blob/master/README.md,2,1
+/NSBLab/DiCER/blob/master/subject_list_Beijing.txt,2,1
+/NSBLab/DiCER/blob/master/subject_list_cambridge_me.txt,2,1
