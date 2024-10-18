@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/NSBLab/BrainEigenmodes,82,48
+/NSBLab/BrainEigenmodes/tree/main/data,71,10
+/NSBLab/BrainEigenmodes/tree/main/functions_matlab,34,8
+/NSBLab/BrainEigenmodes/blob/main/demo_eigenmode_analysis.m,26,7
+/NSBLab/BrainEigenmodes/blob/main/surface_eigenmodes.py,25,7
+/NSBLab/BrainEigenmodes/tree/main/data/parcellations,18,2
+/NSBLab/BrainEigenmodes/tree/main/data/examples,16,5
+/NSBLab/BrainEigenmodes/blob/main/data/parcellations/Q1-Q6_RelatedParcellation210.L.CorticalAreas_dil_Colors.32k_fs_LR.label.gii,15,2
+/NSBLab/BrainEigenmodes/blob/main/functions_matlab/calc_eigendecomposition.m,14,6
+/NSBLab/BrainEigenmodes/tree/main/data/template_surfaces_volumes,14,5
