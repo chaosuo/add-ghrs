@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/BMHLab/BrainEigenmodes,24,14
+/BMHLab/BrainEigenmodes/tree/main/data,5,3
+/BMHLab/BrainEigenmodes/blob/main/demo_eigenmode_calculation.sh,5,1
+/BMHLab/BrainEigenmodes/tree/main/functions_matlab,4,3
+/BMHLab/BrainEigenmodes/tree/main/data/examples,3,2
+/BMHLab/BrainEigenmodes/blob/main/cover_image.jpg,1,1
+/BMHLab/BrainEigenmodes/blob/main/data/examples/.DS_Store,1,1
+/BMHLab/BrainEigenmodes/blob/main/demo_eigenmode_analysis.m,1,1
+/BMHLab/BrainEigenmodes/blob/main/functions_matlab/corr_col.m,1,1
+/BMHLab/BrainEigenmodes/blob/main/functions_matlab/model_BOLD_balloon.m,1,1
