@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/BMHLab/DiCER,10,4
+/BMHLab/DiCER/tree/master/fmriprepProcess,5,2
+/BMHLab/DiCER/blob/master/carpetCleaning/clusterCorrect.py,4,1
+/BMHLab/DiCER/blob/master/fmriprepProcess/gsReorder.py,4,1
+/BMHLab/DiCER/tree/master/carpetReport,4,1
+/BMHLab/DiCER/tree/master/hcp_processing,3,2
+/BMHLab/DiCER/blob/master/carpetCleaner.sh,3,1
+/BMHLab/DiCER/tree/master/carpetCleaning,3,1
+/BMHLab/DiCER/blob/master/carpetCleaning/Loopdbscan.py,2,1
+/BMHLab/DiCER/blob/master/carpetCleaning/vacuum_dbscan.py,2,1

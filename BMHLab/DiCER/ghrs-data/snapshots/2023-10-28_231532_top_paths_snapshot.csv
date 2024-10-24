@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/BMHLab/DiCER,4,2
+/BMHLab/DiCER/tree/master/fmriprepProcess,4,2
+/BMHLab/DiCER/blob/49e175e331bb07a7be947478215b68c9126df2f0/hcp_processing/calculateClusterMass.sh,3,1
+/BMHLab/DiCER/blob/master/carpetCleaner.sh,2,1
+/BMHLab/DiCER/blob/master/carpetReport/bazaar.py,2,1
+/BMHLab/DiCER/blob/master/carpetReport/carpetPlot.py,2,1
+/BMHLab/DiCER/blob/master/carpetReport/dbscan_plotting.py,2,1
+/BMHLab/DiCER/blob/master/carpetReport/persia.sh,2,1
+/BMHLab/DiCER/blob/master/carpetReport/plotDBthreads.py,2,1
+/BMHLab/DiCER/blob/master/carpetReport/tapestry.py,2,1

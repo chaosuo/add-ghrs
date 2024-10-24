@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/NSBLab/BrainEigenmodes,162,103
+/NSBLab/BrainEigenmodes/tree/main/data,121,19
+/NSBLab/BrainEigenmodes/tree/main/functions_matlab,85,22
+/NSBLab/BrainEigenmodes/blob/main/functions_matlab/model_neural_waves.m,63,7
+/NSBLab/BrainEigenmodes/blob/main/surface_eigenmodes.py,44,14
+/NSBLab/BrainEigenmodes/tree/main,42,16
+/NSBLab/BrainEigenmodes/blob/main/demo_wave_model_simulation.m,40,12
+/NSBLab/BrainEigenmodes/blob/main/functions_matlab/calc_eigendecomposition.m,37,8
+/NSBLab/BrainEigenmodes/blob/main/demo_eigenmode_analysis.m,35,13
+/NSBLab/BrainEigenmodes/blob/main/generate_paper_figures_main_Nature.m,35,4

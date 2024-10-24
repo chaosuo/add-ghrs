@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/BMHLab/BrainEigenmodes_legacy/tree/main/data,29,3
+/BMHLab/BrainEigenmodes_legacy/tree/main/functions_matlab,22,4
+/BMHLab/BrainEigenmodes_legacy/blob/main/demo_eigenmode_calculation.sh,16,1
+/BMHLab/BrainEigenmodes_legacy/blob/main/functions_matlab/draw_surface_bluewhitered_dull.m,16,1
+/BMHLab/BrainEigenmodes_legacy/blob/main/generate_paper_figures_main_Nature.m,16,1
+/BMHLab/BrainEigenmodes_legacy/tree/main/data/examples,14,2
+/BMHLab/BrainEigenmodes_legacy,12,7
+/BMHLab/BrainEigenmodes_legacy/blob/main/demo_eigenmode_analysis.m,11,2
+/BMHLab/BrainEigenmodes_legacy/tree/main,11,2
+/BMHLab/BrainEigenmodes_legacy/blob/main/functions_matlab/calc_eigendecomposition.m,10,2

@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/NSBLab/BrainEigenmodes,25,10
+/NSBLab/BrainEigenmodes/tree/main/functions_matlab,9,3
+/NSBLab/BrainEigenmodes/blob/main/functions_matlab/calc_parcellate.m,5,2
+/NSBLab/BrainEigenmodes/tree/main/data/empirical,4,1
+/NSBLab/BrainEigenmodes/tree/main/data,3,2
+/NSBLab/BrainEigenmodes/blob/main/generate_paper_figures_main_Nature.m,3,1
+/NSBLab/BrainEigenmodes/blob/main/functions_matlab/calc_eigendecomposition.m,2,1
+/NSBLab/BrainEigenmodes/blob/main/functions_matlab/read_vtk.m,2,1
+/NSBLab/BrainEigenmodes/blob/main/surface_eigenmodes.py,2,1
+/NSBLab/BrainEigenmodes/tree/main/data/template_surfaces_volumes,2,1
