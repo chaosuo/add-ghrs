@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/NSBLab/BrainEigenmodes,28,17
+/NSBLab/BrainEigenmodes/blob/main/surface_eigenmodes.py,8,5
+/NSBLab/BrainEigenmodes/blob/main/data/template_surfaces_volumes/fsLR_32k_midthickness-lh.vtk,8,1
+/NSBLab/BrainEigenmodes/tree/main/functions_matlab,7,4
+/NSBLab/BrainEigenmodes/tree/main/data,6,4
+/NSBLab/BrainEigenmodes/blob/main/demo_eigenmode_visualization.m,3,2
+/NSBLab/BrainEigenmodes/blob/main/volume_eigenmodes.py,3,2
+/NSBLab/BrainEigenmodes/blob/main/demo_eigenmode_calculation.sh,3,1
+/NSBLab/BrainEigenmodes/tree/main/data/template_surfaces_volumes,3,1
+/NSBLab/BrainEigenmodes/issues,2,2
