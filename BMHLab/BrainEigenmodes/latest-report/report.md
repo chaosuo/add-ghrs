@@ -1,5 +1,5 @@
 % Statistics for BMHLab/BrainEigenmodes
-% Generated for [BMHLab/BrainEigenmodes](https://github.com/BMHLab/BrainEigenmodes) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2025-05-25 23:26 UTC.
+% Generated for [BMHLab/BrainEigenmodes](https://github.com/BMHLab/BrainEigenmodes) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2025-05-26 23:26 UTC.
 
 
 ## Views
@@ -75,7 +75,7 @@ respond slowly to change (narrow peaks are smoothed out).
 
 <div id="chart_referrers_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 referrers: 01: `t.co`, 02: `Google`, 03: `github.com`, 04: `biorxiv.org`, 05: `mail.google.com`, 06: `cn.bing.com`, 07: `nature.com`, 08: `osf.io`, 09: `mts-natmentalhealth.nature.com`, 10: `webtrans.yodao.com`, 11: `monash.edu`, 12: `Yahoo`, 13: `cell.com`, 14: `catalyzex.com`, 15: `scholar.google.com`
+Top 15 referrers: 01: `t.co`, 02: `Google`, 03: `github.com`, 04: `biorxiv.org`, 05: `mail.google.com`, 06: `cn.bing.com`, 07: `nature.com`, 08: `scholar.google.com`, 09: `monash.edu`, 10: `cell.com`, 11: `osf.io`, 12: `webtrans.yodao.com`, 13: `catalyzex.com`, 14: `Yahoo`, 15: `mts-natmentalhealth.nature.com`
 
 
 
@@ -86,7 +86,7 @@ Top 15 referrers: 01: `t.co`, 02: `Google`, 03: `github.com`, 04: `biorxiv.org`,
 
 <div id="chart_paths_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 paths: 01: `BMHLab/BrainEigenmodes_legacy`, 02: `BMHLab/BrainEigenmodes`, 03: `BMHLab/BrainEigenmodes/tree/main/functions_matlab`, 04: `BMHLab/BrainEigenmodes_legacy/tree/main/functions_matlab`, 05: `BMHLab/BrainEigenmodes/tree/main/data`, 06: `BMHLab/BrainEigenmodes_legacy/tree/main/data`, 07: `BMHLab/BrainEigenmodes/blob/main/demo_eigenmode_analysis.m`, 08: `BMHLab/BrainEigenmodes/blob/main/surface_eigenmodes.py`, 09: `BMHLab/BrainEigenmodes_legacy/blob/main/demo_eigenmode_calculation.sh`, 10: `BMHLab/BrainEigenmodes_legacy/blob/main/functions_matlab/calc_LaplacianMatrix.m`, 11: `BMHLab/BrainEigenmodes_legacy/blob/main/volume_eigenmodes.py`, 12: `BMHLab/BrainEigenmodes_legacy/blob/main/surface_eigenmodes.py`, 13: `BMHLab/BrainEigenmodes/tree/main/data/empirical`, 14: `BMHLab/BrainEigenmodes_legacy/blob/main/functions_matlab/calc_eigendecomposition.m`, 15: `BMHLab/BrainEigenmodes/tree/main/data/parcellations`
+Top 15 paths: 01: `BMHLab/BrainEigenmodes_legacy`, 02: `BMHLab/BrainEigenmodes`, 03: `BMHLab/BrainEigenmodes/tree/main/functions_matlab`, 04: `BMHLab/BrainEigenmodes_legacy/tree/main/functions_matlab`, 05: `BMHLab/BrainEigenmodes/tree/main/data`, 06: `BMHLab/BrainEigenmodes_legacy/tree/main/data`, 07: `BMHLab/BrainEigenmodes/blob/main/demo_eigenmode_analysis.m`, 08: `BMHLab/BrainEigenmodes_legacy/blob/main/demo_eigenmode_calculation.sh`, 09: `BMHLab/BrainEigenmodes/blob/main/surface_eigenmodes.py`, 10: `BMHLab/BrainEigenmodes_legacy/blob/main/volume_eigenmodes.py`, 11: `BMHLab/BrainEigenmodes/tree/main/data/empirical`, 12: `BMHLab/BrainEigenmodes_legacy/blob/main/functions_matlab/calc_eigendecomposition.m`, 13: `BMHLab/BrainEigenmodes_legacy/blob/main/functions_matlab/calc_LaplacianMatrix.m`, 14: `BMHLab/BrainEigenmodes_legacy/blob/main/surface_eigenmodes.py`, 15: `BMHLab/BrainEigenmodes_legacy/tree/main`
 
 
 <script type="text/javascript">
