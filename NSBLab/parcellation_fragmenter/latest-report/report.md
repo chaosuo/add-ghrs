@@ -1,5 +1,5 @@
 % Statistics for NSBLab/parcellation_fragmenter
-% Generated for [NSBLab/parcellation_fragmenter](https://github.com/NSBLab/parcellation_fragmenter) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2026-05-18 00:28 UTC.
+% Generated for [NSBLab/parcellation_fragmenter](https://github.com/NSBLab/parcellation_fragmenter) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2026-05-19 00:40 UTC.
 
 
 ## Views
