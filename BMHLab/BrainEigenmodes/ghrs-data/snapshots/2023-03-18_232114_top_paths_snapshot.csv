@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/BMHLab/BrainEigenmodes,26,14
+/BMHLab/BrainEigenmodes/tree/main/data,11,3
+/BMHLab/BrainEigenmodes/tree/main/functions_matlab,5,4
+/BMHLab/BrainEigenmodes/blob/main/demo_eigenmode_analysis.m,4,4
+/BMHLab/BrainEigenmodes/tree/main/functions_matlab/cifti-matlab-master,4,1
+/BMHLab/BrainEigenmodes/blob/main/demo_eigenmode_calculation.sh,3,1
+/BMHLab/BrainEigenmodes/tree/main/data/empirical,3,1
+/BMHLab/BrainEigenmodes/tree/main/data/template_surfaces_volumes,2,2
+/BMHLab/BrainEigenmodes/tree/main/data/examples,2,1
+/BMHLab/BrainEigenmodes/blob/main/demo_connectome_eigenmode_calculation.m,1,1

@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/BMHLab/BrainEigenmodes_legacy,39,22
+/BMHLab/BrainEigenmodes_legacy/tree/main/functions_matlab,10,7
+/BMHLab/BrainEigenmodes_legacy/blob/main/functions_matlab/model_neural_waves.m,8,1
+/BMHLab/BrainEigenmodes_legacy/tree/main/data,6,4
+/BMHLab/BrainEigenmodes_legacy/blob/main/functions_matlab/calc_LaplacianMatrix.m,4,2
+/BMHLab/BrainEigenmodes_legacy/blob/main/demo_wave_model_simulation.m,4,1
+/BMHLab/BrainEigenmodes_legacy/blob/main/functions_matlab/corr_col.m,3,1
+/BMHLab/BrainEigenmodes_legacy/blob/main/volume_eigenmodes.py,2,2
+/BMHLab/BrainEigenmodes_legacy/blob/main/demo_eigenmode_analysis.m,2,1
+/BMHLab/BrainEigenmodes_legacy/blob/main/demo_eigenmode_visualization.m,2,1
