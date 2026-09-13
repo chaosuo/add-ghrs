@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/NSBLab/BrainEigenmodes,58,38
+/NSBLab/BrainEigenmodes/tree/main/functions_matlab,47,11
+/NSBLab/BrainEigenmodes/tree/main/data,34,11
+/NSBLab/BrainEigenmodes/blob/main/functions_matlab/calc_eigendecomposition.m,31,4
+/NSBLab/BrainEigenmodes/blob/main/functions_matlab/calc_network_eigenmode.m,21,4
+/NSBLab/BrainEigenmodes/blob/main/functions_matlab/calc_LaplacianMatrix.m,20,5
+/NSBLab/BrainEigenmodes/blob/main/demo_eigenmode_analysis.m,15,3
+/NSBLab/BrainEigenmodes/blob/main/functions_matlab/calc_surface_connectivity.m,12,5
+/NSBLab/BrainEigenmodes/blob/main/demo_connectome_eigenmode_calculation.m,12,4
+/NSBLab/BrainEigenmodes/blob/main/functions_matlab/bluewhitered.m,12,3

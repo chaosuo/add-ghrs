@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/BMHLab/BrainEigenmodes,43,24
+/BMHLab/BrainEigenmodes/tree/main/data,13,4
+/BMHLab/BrainEigenmodes/tree/main/functions_matlab,5,4
+/BMHLab/BrainEigenmodes/blob/main/surface_eigenmodes.py,4,4
+/BMHLab/BrainEigenmodes/tree/main/data/examples,4,2
+/BMHLab/BrainEigenmodes/tree/main/data/template_eigenmodes,3,1
+/BMHLab/BrainEigenmodes/tree/main/data/template_surfaces_volumes,3,1
+/BMHLab/BrainEigenmodes/blob/main/generate_paper_figures.m,2,2
+/BMHLab/BrainEigenmodes/blob/main/volume_eigenmodes.py,2,2
+/BMHLab/BrainEigenmodes/tree/main/data/empirical,2,2

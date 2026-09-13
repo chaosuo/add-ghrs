@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/BMHLab/DiCER,14,9
+/BMHLab/DiCER/blob/master/fmriprepProcess/create_mask_dbscan.m,4,2
+/BMHLab/DiCER/tree/master/hcp_processing,4,2
+/BMHLab/DiCER/blob/master/hcp_processing/run_task_analysis.sh,2,1
+/BMHLab/DiCER/issues/12,2,1
+/BMHLab/DiCER/blob/master/carpetCleaner.sh,1,1
+/BMHLab/DiCER/blob/master/carpetReport/carpetPlot.py,1,1
+/BMHLab/DiCER/blob/master/fmriprepProcess/RegressNoiseSignal.m,1,1
+/BMHLab/DiCER/blob/master/hcp_processing/generateDistROI.m,1,1
+/BMHLab/DiCER/blob/master/hcp_processing/run_dicer_one_session.sh,1,1

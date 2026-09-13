@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/NSBLab/MBM,26,4
+/NSBLab/MBM/tree/main,8,1
+/NSBLab/MBM/tree/main/func,7,1
+/NSBLab/MBM/tree/main/utils,4,1
+/NSBLab/MBM/blob/main/mbm_demo_book_chapter.m,3,1
+/NSBLab/MBM/blob/main/mbm_main.m,3,1
+/NSBLab/MBM/blob/main/func/mbm_eigen_decompose.m,2,1
+/NSBLab/MBM/blob/main/func/mbm_read_map.m,2,1
+/NSBLab/MBM/blob/main/func/mbm_stat_map.m,2,1
+/NSBLab/MBM/tree/main/figure,2,1
