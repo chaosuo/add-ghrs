@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/BMHLab/BrainEigenmodes_legacy/tree/main/functions_matlab,24,4
+/BMHLab/BrainEigenmodes_legacy,19,8
+/BMHLab/BrainEigenmodes_legacy/blob/main/surface_eigenmodes.py,15,2
+/BMHLab/BrainEigenmodes_legacy/blob/main/functions_matlab/calc_eigendecomposition.m,12,2
+/BMHLab/BrainEigenmodes_legacy/blob/main/demo_eigenmode_calculation.sh,10,3
+/BMHLab/BrainEigenmodes_legacy/blob/main/demo_wave_model_simulation.m,8,1
+/BMHLab/BrainEigenmodes_legacy/blob/main/functions_matlab/model_neural_waves.m,7,1
+/BMHLab/BrainEigenmodes_legacy/blob/main/README.md,3,1
+/BMHLab/BrainEigenmodes_legacy/blob/main/volume_eigenmodes.py,3,1
+/BMHLab/BrainEigenmodes_legacy/blob/336e3b6e661a0583c33056c69bb5b9e760a8c946/demo_eigenmode_analysis.m,2,1
