@@ -1,0 +1,9 @@
+url_path,views_total,views_unique
+/NSBLab/DiCER,6,5
+/NSBLab/DiCER/blob/master/fmriprepProcess/create_mask_dbscan.m,1,1
+/NSBLab/DiCER/blob/master/fmriprepProcess/prepare_dbscan_from_fmriprep_cluster.script,1,1
+/NSBLab/DiCER/blob/master/fmriprepProcess/prepare_dbscan_from_fmriprep_cluster.sh,1,1
+/NSBLab/DiCER/blob/master/fmriprepProcess/prepare_dbscan_from_fmriprep.sh,1,1
+/NSBLab/DiCER/blob/master/fmriprepProcess/RegressNoiseSignal.m,1,1
+/NSBLab/DiCER/blob/master/hcp_processing/run_dicer_one_session.sh,1,1
+/NSBLab/DiCER/tree/master/fmriprepProcess,1,1

@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/BMHLab/BrainEigenmodes_legacy,7,4
+/BMHLab/BrainEigenmodes_legacy/tree/main/data,3,2
+/BMHLab/BrainEigenmodes_legacy/tree/main,3,1
+/BMHLab/BrainEigenmodes_legacy/tree/main/data/parcellations,2,2
+/BMHLab/BrainEigenmodes_legacy/tree/main/data/template_surfaces_volumes,2,2
+/BMHLab/BrainEigenmodes_legacy/blob/main/demo_wave_model_simulation.m,1,1
+/BMHLab/BrainEigenmodes_legacy/blob/main/surface_eigenmodes.py,1,1
+/BMHLab/BrainEigenmodes_legacy/blob/main/volume_eigenmodes.py,1,1
+/BMHLab/BrainEigenmodes_legacy/labels/enhancement,1,1
+/BMHLab/BrainEigenmodes_legacy/tree/main/data/results,1,1

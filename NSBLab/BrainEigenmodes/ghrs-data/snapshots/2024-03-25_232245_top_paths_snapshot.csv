@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/NSBLab/BrainEigenmodes,50,34
+/NSBLab/BrainEigenmodes/tree/main/functions_matlab,43,9
+/NSBLab/BrainEigenmodes/tree/main/data,33,11
+/NSBLab/BrainEigenmodes/blob/main/functions_matlab/calc_network_eigenmode.m,17,4
+/NSBLab/BrainEigenmodes/blob/main/functions_matlab/calc_LaplacianMatrix.m,16,5
+/NSBLab/BrainEigenmodes/blob/main/functions_matlab/calc_eigendecomposition.m,14,4
+/NSBLab/BrainEigenmodes/blob/main/functions_matlab/calc_surface_connectivity.m,12,5
+/NSBLab/BrainEigenmodes/tree/main/data/template_surfaces_volumes,10,4
+/NSBLab/BrainEigenmodes/blob/main/functions_matlab/calc_parcellate.m,8,4
+/NSBLab/BrainEigenmodes/blob/main/functions_matlab/bluewhitered.m,8,3

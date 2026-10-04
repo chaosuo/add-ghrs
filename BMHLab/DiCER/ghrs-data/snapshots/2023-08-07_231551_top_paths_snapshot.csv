@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/BMHLab/DiCER/tree/master/utils,10,2
+/BMHLab/DiCER/blob/master/subject_list_CNP.txt,8,3
+/BMHLab/DiCER/blob/master/fmriprepProcess/preprocess_fmriprep.sh,6,1
+/BMHLab/DiCER/tree/master/carpetCleaning,6,1
+/BMHLab/DiCER/tree/master/fmriprepProcess,6,1
+/BMHLab/DiCER/tree/master,4,4
+/BMHLab/DiCER,4,2
+/BMHLab/DiCER/blob/master/carpetCleaning/clusterCorrect.py,4,2
+/BMHLab/DiCER/blob/master/DiCER_lightweight.sh,4,2
+/BMHLab/DiCER/blob/master/fmriprepProcess/prepare_dbscan_from_fmriprep_cluster.script,4,1
