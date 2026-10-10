@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/BMHLab/DiCER,13,11
+/BMHLab/DiCER/issues/12,4,3
+/BMHLab/DiCER/pulse,2,2
+/BMHLab/DiCER/tree/master/fmriprepProcess,2,1
+/BMHLab/DiCER/blob/8784493060790e8007654a7116a996484eea6533/carpetCleaner.sh,1,1
+/BMHLab/DiCER/blob/8784493060790e8007654a7116a996484eea6533/hcp_processing/calculateParcelTimeSeriesHCP.sh,1,1
+/BMHLab/DiCER/blob/8784493060790e8007654a7116a996484eea6533/hcp_processing/run_DiCER_hcp.sh,1,1
+/BMHLab/DiCER/blob/8784493060790e8007654a7116a996484eea6533/hcp_processing/run_task_analysis.sh,1,1
+/BMHLab/DiCER/blob/8784493060790e8007654a7116a996484eea6533/hcp_processing/Task_level3_batch.sh,1,1
+/BMHLab/DiCER/blob/master/fmriprepProcess/preprocess_fmriprep.sh,1,1

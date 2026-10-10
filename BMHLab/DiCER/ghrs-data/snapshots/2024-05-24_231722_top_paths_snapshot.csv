@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/NSBLab/DiCER/blob/master/DiCER_lightweight.sh,8,3
+/NSBLab/DiCER,6,5
+/NSBLab/DiCER/blob/master/fmriprepProcess/preprocess_fmriprep.sh,6,1
+/NSBLab/DiCER/blob/master/__init__.py,6,1
+/NSBLab/DiCER/tree/master,5,3
+/NSBLab/DiCER/tree/master/fmriprepProcess,4,2
+/NSBLab/DiCER/tree/master/hcp_processing,4,2
+/NSBLab/DiCER/blob/master/carpetCleaner.sh,4,1
+/NSBLab/DiCER/blob/master/.DS_Store,2,1
+/NSBLab/DiCER/blob/master/fmriprepProcess/clusterReorder.py,2,1
