@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/NSBLab/BrainEigenmodes,59,37
+/NSBLab/BrainEigenmodes/tree/main/functions_matlab,14,7
+/NSBLab/BrainEigenmodes/tree/main,14,5
+/NSBLab/BrainEigenmodes/tree/main/data,12,7
+/NSBLab/BrainEigenmodes/blob/main/surface_eigenmodes.py,10,6
+/NSBLab/BrainEigenmodes/blob/main/demo_eigenmode_calculation.sh,9,6
+/NSBLab/BrainEigenmodes/blob/main/README.md,6,3
+/NSBLab/BrainEigenmodes/blob/main/functions_matlab/calc_eigendecomposition.m,5,4
+/NSBLab/BrainEigenmodes/tree/main/data/examples,5,4
+/NSBLab/BrainEigenmodes/blob/main/data/examples/fsLR_32k_midthickness-lh_emode_50.txt,5,2
