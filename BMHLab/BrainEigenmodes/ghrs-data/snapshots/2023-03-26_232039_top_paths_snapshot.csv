@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/BMHLab/BrainEigenmodes,23,12
+/BMHLab/BrainEigenmodes/blob/main/demo_eigenmode_calculation.sh,8,2
+/BMHLab/BrainEigenmodes/tree/main/functions_matlab,5,3
+/BMHLab/BrainEigenmodes/tree/main/data,3,2
+/BMHLab/BrainEigenmodes/blob/main/demo_eigenmode_analysis.m,2,2
+/BMHLab/BrainEigenmodes/blob/main/demo_connectome_eigenmode_calculation.m,1,1
+/BMHLab/BrainEigenmodes/blob/main/functions_matlab/model_BOLD_balloon.m,1,1
+/BMHLab/BrainEigenmodes/blob/main/functions_matlab/read_vtk.m,1,1
+/BMHLab/BrainEigenmodes/blob/main/generate_paper_figures.m,1,1
+/BMHLab/BrainEigenmodes/blob/main/surface_eigenmodes.py,1,1
