@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/BMHLab/DiCER/blob/master/carpetCleaner.sh,8,1
+/BMHLab/DiCER/tree/master/fmriprepProcess,6,1
+/BMHLab/DiCER,4,2
+/BMHLab/DiCER/blob/master/hcp_processing/QC_FC_stats.m,4,1
+/BMHLab/DiCER/issues/12,2,2
+/BMHLab/DiCER/blob/master/fmriprepProcess/create_mask_dbscan.m,2,1
+/BMHLab/DiCER/blob/master/fmriprepProcess/prepare_dbscan_from_fmriprep_cluster.script,2,1
+/BMHLab/DiCER/blob/master/fmriprepProcess/prepare_dbscan_from_fmriprep.sh,2,1
+/BMHLab/DiCER/blob/master/fmriprepProcess/preprocess_fmriprep.sh,2,1
+/BMHLab/DiCER/blob/master/fmriprepProcess/RegressNoiseSignal.m,2,1

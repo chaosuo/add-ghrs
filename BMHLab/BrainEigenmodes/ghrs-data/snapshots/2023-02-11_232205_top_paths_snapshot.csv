@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/BMHLab/BrainEigenmodes,14,4
+/BMHLab/BrainEigenmodes/tree/main/data,4,3
+/BMHLab/BrainEigenmodes/blob/main/demo_eigenmode_calculation.sh,3,1
+/BMHLab/BrainEigenmodes/blob/main/demo_connectome_eigenmode_calculation.m,2,1
+/BMHLab/BrainEigenmodes/blob/main/demo_eigenmode_analysis.m,2,1
+/BMHLab/BrainEigenmodes/graphs/traffic,2,1
+/BMHLab/BrainEigenmodes/pulse,2,1
+/BMHLab/BrainEigenmodes/tree/main/data/template_eigenmodes,2,1
+/BMHLab/BrainEigenmodes/blob/main/data/parcellations/Q1-Q6_RelatedParcellation210.L.CorticalAreas_dil_Colors.32k_fs_LR.label.gii,1,1
+/BMHLab/BrainEigenmodes/blob/main/data/results/cortical/.DS_Store,1,1

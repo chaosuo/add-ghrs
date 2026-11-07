@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/BMHLab/BrainEigenmodes_legacy,12,8
+/BMHLab/BrainEigenmodes_legacy/tree/main/functions_matlab,11,3
+/BMHLab/BrainEigenmodes_legacy/tree/main/data,8,3
+/BMHLab/BrainEigenmodes_legacy/blob/main/demo_wave_model_simulation.m,7,2
+/BMHLab/BrainEigenmodes_legacy/tree/main,3,2
+/BMHLab/BrainEigenmodes_legacy/blob/main/demo_eigenmode_calculation.sh,3,1
+/BMHLab/BrainEigenmodes_legacy/blob/main/demo_connectome_eigenmode_calculation.m,2,1
+/BMHLab/BrainEigenmodes_legacy/blob/main/functions_matlab/calc_parcellate.m,2,1
+/BMHLab/BrainEigenmodes_legacy/blob/main/functions_matlab/loadParameters_balloon_func.m,2,1
+/BMHLab/BrainEigenmodes_legacy/blob/main/functions_matlab/model_neural_waves.m,2,1
