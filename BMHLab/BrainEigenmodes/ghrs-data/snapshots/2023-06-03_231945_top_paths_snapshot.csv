@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/BMHLab/BrainEigenmodes_legacy,42,26
+/BMHLab/BrainEigenmodes_legacy/blob/main/surface_eigenmodes.py,18,3
+/BMHLab/BrainEigenmodes_legacy/blob/main/demo_eigenmode_calculation.sh,13,3
+/BMHLab/BrainEigenmodes_legacy/tree/main/data,11,5
+/BMHLab/BrainEigenmodes_legacy/blob/main/demo_eigenmode_analysis.m,7,2
+/BMHLab/BrainEigenmodes_legacy/blob/main/functions_matlab/model_neural_waves.m,6,1
+/BMHLab/BrainEigenmodes_legacy/tree/main/functions_matlab,5,4
+/BMHLab/BrainEigenmodes_legacy/blob/main/demo_wave_model_simulation.m,5,1
+/BMHLab/BrainEigenmodes_legacy/blob/main/generate_paper_figures_main_Nature.m,4,2
+/BMHLab/BrainEigenmodes_legacy/tree/main/data/examples,4,2

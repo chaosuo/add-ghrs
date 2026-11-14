@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/BMHLab/BrainEigenmodes_legacy/blob/main/generate_paper_figures_main_Nature.m,4,1
+/BMHLab/BrainEigenmodes_legacy/tree/main/data/results,4,1
+/BMHLab/BrainEigenmodes_legacy,3,2
+/BMHLab/BrainEigenmodes_legacy/blob/main/data/figures_Nature/ExtFigure2.mat,1,1
+/BMHLab/BrainEigenmodes_legacy/blob/main/data/template_surfaces_volumes/fsLR_32k_cortex-lh_mask.txt,1,1
+/BMHLab/BrainEigenmodes_legacy/blob/main/data/template_surfaces_volumes/fsLR_32k_cortex-rh_mask.txt,1,1
+/BMHLab/BrainEigenmodes_legacy/blob/main/data/template_surfaces_volumes/fsLR_32k_inflated-lh.vtk,1,1
+/BMHLab/BrainEigenmodes_legacy/blob/main/data/template_surfaces_volumes/fsLR_32k_veryinflated-lh.vtk,1,1
+/BMHLab/BrainEigenmodes_legacy/blob/main/data/template_surfaces_volumes/fsLR_32k_veryinflated-rh.vtk,1,1
+/BMHLab/BrainEigenmodes_legacy/blob/main/demo_eigenmode_visualization.m,1,1

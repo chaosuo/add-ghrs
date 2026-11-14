@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/NSBLab/BrainEigenmodes,49,31
+/NSBLab/BrainEigenmodes/tree/main,7,6
+/NSBLab/BrainEigenmodes/tree/main/functions_matlab,7,6
+/NSBLab/BrainEigenmodes/blob/main/demo_eigenmode_calculation.sh,5,4
+/NSBLab/BrainEigenmodes/tree/main/data,4,3
+/NSBLab/BrainEigenmodes/blob/main/surface_eigenmodes.py,4,2
+/NSBLab/BrainEigenmodes/blob/main/demo_eigenmode_analysis.m,3,2
+/NSBLab/BrainEigenmodes/blob/main/functions_matlab/calc_eigendecomposition.m,3,1
+/NSBLab/BrainEigenmodes/tree/main/data/parcellations,2,2
+/NSBLab/BrainEigenmodes/blob/main/functions_matlab/calc_parcellate.m,2,1

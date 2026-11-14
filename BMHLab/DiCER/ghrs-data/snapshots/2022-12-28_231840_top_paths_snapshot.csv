@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/BMHLab/DiCER,16,9
+/BMHLab/DiCER/tree/master/hcp_processing,4,2
+/BMHLab/DiCER/blob/master/hcp_processing/QC_FC_stats.m,2,2
+/BMHLab/DiCER/blob/master/fmriprepProcess/preprocess_fmriprep.sh,1,1
+/BMHLab/DiCER/blob/master/hcp_processing/calculate_FD.py,1,1
+/BMHLab/DiCER/blob/master/hcp_processing/generateDistROI.m,1,1
+/BMHLab/DiCER/blob/master/hcp_processing/roi_HCP_MMP.txt,1,1
+/BMHLab/DiCER/blob/master/hcp_processing/run_task_analysis.sh,1,1
+/BMHLab/DiCER/blob/master/utils/calculate_FD.py,1,1
+/BMHLab/DiCER/tree/master/fmriprepProcess,1,1
