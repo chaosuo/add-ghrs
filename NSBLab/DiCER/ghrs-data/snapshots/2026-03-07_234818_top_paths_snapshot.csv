@@ -1,0 +1,10 @@
+url_path,views_total,views_unique
+/NSBLab/DiCER,13,7
+/NSBLab/DiCER/blob/master/carpetCleaning/vacuum_dbscan.py,4,1
+/NSBLab/DiCER/blob/master/carpetCleaner.sh,3,2
+/NSBLab/DiCER/tree/master/carpetCleaning,3,1
+/NSBLab/DiCER/blob/master/fmriprepProcess/create_mask_dbscan.m,2,1
+/NSBLab/DiCER/tree/master/fmriprepProcess,2,1
+/NSBLab/DiCER/blob/49e175e331bb07a7be947478215b68c9126df2f0/hcp_processing/level3_group_stats.fsf,1,1
+/NSBLab/DiCER/issues,1,1
+/NSBLab/DiCER/tree/master/carpetReport,1,1
