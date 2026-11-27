@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/NSBLab/BrainEigenmodes,43,30
+/NSBLab/BrainEigenmodes/tree/main/functions_matlab,39,7
+/NSBLab/BrainEigenmodes/tree/main/data,16,7
+/NSBLab/BrainEigenmodes/tree/main,16,5
+/NSBLab/BrainEigenmodes/blob/main/surface_eigenmodes.py,13,8
+/NSBLab/BrainEigenmodes/blob/main/functions_matlab/loadParameters_balloon_func.m,12,1
+/NSBLab/BrainEigenmodes/blob/main/demo_eigenmode_analysis.m,9,5
+/NSBLab/BrainEigenmodes/blob/main/functions_matlab/model_BOLD_balloon.m,8,1
+/NSBLab/BrainEigenmodes/blob/main/demo_eigenmode_calculation.sh,7,5
+/NSBLab/BrainEigenmodes/blob/main/functions_matlab/calc_eigendecomposition.m,6,3
